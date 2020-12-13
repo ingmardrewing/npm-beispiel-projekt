@@ -1,0 +1,29 @@
+{
+  "name": "beispiel-projekt",
+  "version": "1.0.0",
+  "description": "Ein Beispiel für ein npm-Projekt",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ingmardrewing/npm-beispiel-projekt.git"
+  },
+  "keywords": [
+    "test",
+    "bsp"
+  ],
+  "author": "Ingmar Drewing",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ingmardrewing/npm-beispiel-projekt/issues"
+  },
+  "homepage": "https://github.com/ingmardrewing/npm-beispiel-projekt#readme",
+  "dependencies": {
+    "p5": "^1.1.9"
+  },
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
